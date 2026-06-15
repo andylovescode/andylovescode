@@ -22,7 +22,6 @@ I'll admit, this list is shorter than I'd like it to be, for two main reasons:
 | ------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [redlight](https://github.com/Team254/redlight)   | A patcher for LimelightOS                                                    |
 | [nitroview](https://github.com/Team254/nitroview) | A successor to the old Team 254 Pit Display software                         |
-| [linq](https://github.com/Team254/Linq)           | An (unused) piece of software that is a more fleshed out version of QuestNav |
 
 ## Talk to me
 
